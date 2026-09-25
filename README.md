@@ -61,7 +61,7 @@ email authentication is properly checked — but user awareness
 remains the first and most important line of defense.
 
 ## Files
-- `Report.pdf` — Full Phishing Detection & Awareness Report
+- - [Report.pdf](./Report.pdf) — Full Phishing Detection & Awareness Report
 - `sample-01-task-example.txt` — Fake account lock phishing sample
 - `sample-02-fake-fax-notification.txt` — Fake fax notification sample
 - `sample-03-fake-voicemail.txt` — Fake voicemail sample
